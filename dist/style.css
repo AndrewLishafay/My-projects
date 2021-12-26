@@ -46,6 +46,7 @@ body {
   }
 }
 .header__icon {
+  z-index: 1;
   perspective: 300px;
   perspective-origin: 300%;
   position: relative;
