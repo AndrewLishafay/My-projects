@@ -609,8 +609,7 @@ body {
 }
 @media only screen and (min-width: 1600px) {
   .wallet-value {
-    width: 50vw;
-    left: 50px;
+    left: 15vw;
   }
 }
 .wallet-value__grid {
@@ -629,7 +628,7 @@ body {
 }
 @media only screen and (min-width: 1600px) {
   .wallet-value__grid {
-    width: 35vw;
+    width: 25vw;
   }
 }
 .wallet-value__grid__cell {
@@ -643,7 +642,7 @@ body {
 }
 @media only screen and (min-width: 1600px) {
   .wallet-value__grid__cell {
-    width: 7vw;
+    width: 5vw;
   }
 }
 .wallet-value__grid #cell1:hover ~ .wallet-value__scene {
@@ -770,7 +769,7 @@ body {
 }
 @media only screen and (min-width: 1600px) {
   .wallet-value__scene__graph {
-    height: 35vw;
+    height: 25vw;
   }
 }
 .wallet-value__scene__graph svg {
@@ -786,7 +785,7 @@ body {
 }
 @media only screen and (min-width: 1600px) {
   .wallet-value__scene__graph svg {
-    width: 30vw;
+    width: 20vw;
   }
 }
 .wallet-value__scene__graph h1 {
@@ -823,8 +822,8 @@ body {
 }
 @media only screen and (min-width: 1600px) {
   .wallet-portfolio {
-    width: 35vw;
-    right: 200px;
+    width: 30vw;
+    right: 20vw;
   }
 }
 .wallet-portfolio__title {
@@ -894,6 +893,7 @@ body {
   position: absolute;
   top: 10px;
   height: 40px;
+  width: 800px;
 }
 .wallet-portfolio__list__item__price {
   margin: 5px;
