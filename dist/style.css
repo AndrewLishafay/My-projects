@@ -491,7 +491,7 @@ body {
 
 @keyframes scroll-right {
   from {
-    transform: translateX(640px);
+    transform: translateX(100vw);
   }
   to {
     transform: translateX(-1250px);
@@ -507,6 +507,13 @@ body {
   width: var(--width);
   overflow: hidden;
   white-space: nowrap;
+}
+@media only screen and (min-width: 1600px) {
+  .wallet-banner {
+    width: 50vw;
+    position: absolute;
+    left: 25vw;
+  }
 }
 .wallet-banner:hover > .wallet-banner__item {
   animation-play-state: paused;
@@ -604,12 +611,14 @@ body {
 @media only screen and (min-width: 1200px) {
   .wallet-value {
     width: 50vw;
-    left: -90px;
+    position: absolute;
+    top: 130px;
+    right: 50vw;
   }
 }
 @media only screen and (min-width: 1600px) {
   .wallet-value {
-    left: 15vw;
+    left: 25vw;
   }
 }
 .wallet-value__grid {
@@ -816,14 +825,14 @@ body {
   .wallet-portfolio {
     width: 45vw;
     position: absolute;
-    right: 20px;
     top: 130px;
+    left: 51vw;
+    padding-bottom: 150px;
   }
 }
 @media only screen and (min-width: 1600px) {
   .wallet-portfolio {
-    width: 30vw;
-    right: 20vw;
+    width: 23vw;
   }
 }
 .wallet-portfolio__title {
