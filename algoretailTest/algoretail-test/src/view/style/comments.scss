@@ -1,0 +1,90 @@
+.comments {
+    height: fit-content;
+    max-width: 800px;
+    margin: auto;
+    margin-block: 30px;
+    min-height: 50vh;
+    background: rgba($color: #FFF, $alpha: 0.5);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    form {
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        input {
+            background-color: #DDD;
+            border: #0E1C44 solid 2px;
+            border-radius: 5px;
+        }
+
+        #email {
+            width: 200px;
+        }
+
+        #name {
+            width: 200px;
+        }
+
+        #text {
+            width: 500px;
+            background-color: #DDD;
+            border: #0E1C44 solid 2px;
+            border-radius: 5px;
+        }
+
+        #send {
+            width: 60px;
+        }
+
+        * {
+            margin: 5px;
+        }
+
+        .alert {
+            border: red solid 3px
+        }
+    }
+
+    &__item {
+        margin: 20px;
+        border: solid #0E1C44 3px;
+        border-radius: 10px;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0.4) 91%);
+        min-height: fit-content;
+        width: 90%;
+
+        @media only screen and (min-width: 768px) {
+            width: calc(90% - 50px);
+        }
+
+        padding: 10px;
+
+        &__info {
+            h3 {
+                text-align: center;
+            }
+
+            &__user {
+                display: flex;
+
+                h3 {
+                    overflow-wrap: anywhere;
+                }
+
+                img {
+                    height: 60px;
+                }
+            }
+        }
+
+        &__body {
+            max-width: 70ch;
+            margin-inline: 30px;
+        }
+    }
+}

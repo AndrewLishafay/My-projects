@@ -45,8 +45,10 @@ const Dice = (props: BoxProps) => {
             {/* @ts-ignore */}
             <mesh ref={ref} position={position} rotation={[deg2rad(30), deg2rad(30), deg2rad(0)]} castShadow receiveShadow >
                 <boxGeometry args={[0.1, 0.1, 0.1]} />
-                {textures.map((texture, idx) =>
+                {textures.map((texture, idx) =>{
                     <meshBasicMaterial key={texture.id} attach={`material-${idx}`} map={texture} />
+                    console.log(idx)
+                }
                 )}
             </mesh>
         </>
