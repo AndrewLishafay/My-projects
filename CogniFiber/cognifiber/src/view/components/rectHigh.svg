@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="52.434 65.071 269.928 344.004" width="269.928" height="344.004">
+    <defs>
+        <linearGradient id="linear-gradient" x1="242.176" y1="357.476" x2="28.359" y2="-12.865" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5000ff"></stop>
+            <stop offset="0.091" stop-color="#5000ff" stop-opacity=".821"></stop>
+            <stop offset="0.281" stop-color="#5000ff" stop-opacity=".466"></stop>
+            <stop offset="0.414" stop-color="#5000ff" stop-opacity=".242"></stop>
+            <stop offset="0.478" stop-color="#5000ff" stop-opacity=".156"></stop>
+            <stop offset="0.536" stop-color="#5000ff" stop-opacity=".27"></stop>
+            <stop offset="0.705" stop-color="#5000ff" stop-opacity=".58"></stop>
+            <stop offset="0.843" stop-color="#5000ff" stop-opacity=".807"></stop>
+            <stop offset="0.945" stop-color="#5000ff" stop-opacity=".947"></stop>
+            <stop offset="1" stop-color="#5000ff"></stop>
+            <stop offset="1" stop-color="#5000ff" stop-opacity=".872"></stop>
+            <stop offset="1" stop-color="#5000ff" stop-opacity=".672"></stop>
+            <stop offset="1" stop-color="#5000ff" stop-opacity=".547"></stop>
+            <stop offset="1" stop-color="#5000ff" stop-opacity=".5"></stop>
+        </linearGradient>
+    </defs>
+    <rect class="cls-4" x=".304" y=".304" width="269.928" height="344.004" rx="8" ry="8" transform="matrix(1, 0, 0, 1, 52.130093, 64.767174)" style="fill: rgb(18, 18, 35); opacity: 0.92; stroke: url(#linear-gradient); stroke-miterlimit: 10; stroke-width: 0.607px;"></rect>
+</svg>

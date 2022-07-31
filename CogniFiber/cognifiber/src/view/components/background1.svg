@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 732.734 344.611">
+    <defs>
+        <style>.cls-1{stroke:url(#linear-gradient-2);}.cls-1,.cls-2,.cls-3{stroke-width:.45px;}.cls-1,.cls-2,.cls-3,.cls-4{fill:#121223;opacity:.92;stroke-miterlimit:10;}.cls-2{stroke:url(#linear-gradient-3);}.cls-3{stroke:url(#linear-gradient-4);}.cls-4{stroke:url(#linear-gradient);stroke-width:.607px;}</style>
+        <linearGradient id="linear-gradient" x1="242.176" y1="357.476" x2="28.359" y2="-12.865" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5000ff" />
+            <stop offset=".091" stop-color="#5000ff" stop-opacity=".821" />
+            <stop offset=".281" stop-color="#5000ff" stop-opacity=".466" />
+            <stop offset=".414" stop-color="#5000ff" stop-opacity=".242" />
+            <stop offset=".478" stop-color="#5000ff" stop-opacity=".156" />
+            <stop offset=".536" stop-color="#5000ff" stop-opacity=".27" />
+            <stop offset=".705" stop-color="#5000ff" stop-opacity=".58" />
+            <stop offset=".843" stop-color="#5000ff" stop-opacity=".807" />
+            <stop offset=".945" stop-color="#5000ff" stop-opacity=".947" />
+            <stop offset="1" stop-color="#5000ff" />
+            <stop offset="1" stop-color="#5000ff" stop-opacity=".872" />
+            <stop offset="1" stop-color="#5000ff" stop-opacity=".672" />
+            <stop offset="1" stop-color="#5000ff" stop-opacity=".547" />
+            <stop offset="1" stop-color="#5000ff" stop-opacity=".5" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="583.86" y1="194.693" x2="423.881" y2="-82.399" xlink:href="#linear-gradient" />
+        <linearGradient id="linear-gradient-3" x1="583.86" y1="311.851" x2="423.881" y2="34.759" xlink:href="#linear-gradient" />
+        <linearGradient id="linear-gradient-4" x1="583.86" y1="427.01" x2="423.881" y2="149.918" xlink:href="#linear-gradient" />
+    </defs>
+    <rect class="cls-4" x=".304" y=".304" width="269.928" height="344.004" rx="8" ry="8" />
+    <rect class="cls-1" x="275.232" y=".304" width="457.277" height="111.686" rx="8" ry="8" />
+    <rect class="cls-2" x="275.232" y="117.462" width="457.277" height="111.686" rx="8" ry="8" />
+    <rect class="cls-3" x="275.232" y="232.621" width="457.277" height="111.686" rx="8" ry="8" />
+</svg>

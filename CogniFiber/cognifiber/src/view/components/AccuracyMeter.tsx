@@ -17,8 +17,8 @@ const AccuracyMeter = (props: any) => {
 
     return (
         <div className='accuracy-block'>
-            <h1 className='accuracy' style={{ color: 'rgba(99, 16, 187, 1)' }}>{fiberAccuracy}%</h1>
-            <h1 className='accuracy' style={{ color: '#76b900' }}>{nvidiaAccuracy}%</h1>
+            <h1 className='accuracy'  >{fiberAccuracy}%</h1>
+            <h1 className='accuracy pop_font' >{nvidiaAccuracy}%</h1>
         </div>
     )
 }

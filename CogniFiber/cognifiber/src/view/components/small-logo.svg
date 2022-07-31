@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 193.89 194.22">
+    <defs>
+        <style>.e,.f{fill:#f4f4f4;}.f{opacity:.5;}.g{fill:url(#d);}</style>
+        <linearGradient id="d" x1="-813.53" y1="-895.79" x2="-658.52" y2="-895.79" gradientTransform="translate(1266.23 194.64) rotate(-45)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5000ff" />
+            <stop offset=".08" stop-color="#5000ff" stop-opacity=".96" />
+            <stop offset=".22" stop-color="#5000ff" stop-opacity=".87" />
+            <stop offset=".4" stop-color="#5000ff" stop-opacity=".71" />
+            <stop offset=".61" stop-color="#5000ff" stop-opacity=".49" />
+            <stop offset=".84" stop-color="#5000ff" stop-opacity=".21" />
+            <stop offset="1" stop-color="#5000ff" stop-opacity="0" />
+        </linearGradient>
+    </defs>
+    <g id="a" />
+    <g id="b">
+        <g id="c">
+            <g>
+                <path class="f" d="M0,109.66l84.42,84.56,84.42-84.56L84.42,25.09,0,109.66Zm138.01,0l-53.59,53.68L30.83,109.66l53.59-53.68,53.59,53.68Z" />
+                <polygon class="g" points="84.42 163.34 193.89 53.68 140.3 0 30.83 109.66 84.42 163.34" />
+                <polygon class="e" points="84.42 163.34 30.83 109.66 99.83 40.53 84.42 25.09 0 109.66 84.42 194.22 168.84 109.66 153.43 94.22 84.42 163.34" />
+            </g>
+        </g>
+    </g>
+</svg>
